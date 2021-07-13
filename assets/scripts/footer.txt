@@ -1,0 +1,1 @@
+document.write('<script src = "assets/scripts/dropdown.js"></script><p style = "text-align: center;">Owen Christian Wijaya &#169; 2021, Dicoding Academy</p>')
